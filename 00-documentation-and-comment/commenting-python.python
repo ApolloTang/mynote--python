@@ -1,0 +1,14 @@
+'''
+    This is a multiline comments
+    This is a multiline comments
+    This is a multiline comments
+    This is a multiline comments
+'''
+print("The above is a multiline comments")
+
+
+# This is a single-line comments
+print("The above is a simgle-line comments")
+
+
+print("Here is an inline comments")  # This is an inline comments
